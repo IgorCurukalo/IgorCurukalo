@@ -27,6 +27,12 @@ git remote add origin https://github.com/IgorCurukalo/lenta_news_to_discord.git
 git push -u origin main
 
 git push -f
+
+-----------------------------------------------------------------------------------
+git add .  
+git checkout -b old 
+git commit -m "old"           
+git push origin old      
 ```
 
 [![codewars](https://www.codewars.com/users/igor_curukalo/badges/micro)](https://www.codewars.com/users/igor_curukalo)
